@@ -1,0 +1,74 @@
+-------TRADEVIV-------
+tradevivlogin:http://www.tradeviv.com/user/login
+Temail:kbhavya29@gmail.com
+Tpassword:Abhavani@29
+#-------Admin Login-------#
+	
+		Admin_Url      =   https://tradeviv.com/admin/login
+		Admin_Email	   =   admin@tradeviv.com
+		Admin_Password =  1234
+	
+
+
+
+
+
+------ALAIGAL----------
+link:https://myvideoscript.com/aligal/index.php/admin/login
+username:admin@gmail.com
+password:Admin@123
+
+Refferedbydropdown1:Vinisha V
+Guestname:jo
+industry:Food & Beverages
+companyname:jo foods
+companyaddress:no29,ejipura,bangalore
+city:Chennai
+state:Tamilnadu
+contactno:987654321
+Emailid:johana09@gmail.com
+uploadId:C:\\Users\\DELL\\Desktop\\Alaigal\\\\onthespot idproof.jpg
+uploadbusinesscard:C:\\Users\\DELL\\Desktop\\Alaigal\\\\businesscard onthespot.jpg
+
+memberlink:https://myvideoscript.com/aligal/index.php/user/signin
+username1:venugopalvinisha@gmail.com
+password1:johana@09
+
+firstname:Tirzah
+lastname:V
+Residentaladdress:no29,ejipura,bangalore
+state:Tamilnadu
+phonenumber:9876543210
+dateofjoining:24-03-2000
+dateofbirth:24-03-1992
+city:Chennai
+pincode:600022
+email:tirzah.je@gmail.com
+profilepic:C:\Users\DELL\Desktop\Alaigal\tirzahprofile.jpg
+
+
+# Open Reference #----
+
+title= shirts
+date= 12-28-2021
+amount= 200000
+description = i need 100 pcs of shirts with good quality
+
+        # Direct Reference#---
+
+duedate= 12-28-2021
+amt=200000 
+refdescription= bulk of tshirts with good product
+        
+        # ThanksNote#-----
+        
+amt1= 200000
+thanksdescription =Thank you for ur good quality product
+
+#MEMBER SIGNUP DATA 
+link_member:https://alaigal.in/user/signup
+signup_first_name	:	gayathri 
+signup_last_name	:	g
+signup_email		:	gayathri@gmail.com
+signup_company_name	:	gbk pvt ltd
+signup_ph_no		:	6382048801
